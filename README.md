@@ -1,2 +1,2 @@
-# beadadndo_KM
+# beadando_KM
 Powerpoint előadás IKT órára
